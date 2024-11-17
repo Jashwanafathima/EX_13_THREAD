@@ -1,4 +1,11 @@
 # EX_13_THREAD
+## PROGRAM:
+Developed by:JASHWANA FATHIMA S
+
+Registeration Number : 212222040059
+
+Date : 11.11.2024
+
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
 
@@ -19,14 +26,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
-/*
-```
-Developed by:JASHWANA FATHIMA S
-Registeration Number : 212222040059
-```
-*/
 
 ## MainActivity.java
 ```
